@@ -2,5 +2,6 @@
 
 int main(void)
 {
+int z = 0;
 	
 }
