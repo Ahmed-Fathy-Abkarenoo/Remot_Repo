@@ -2,5 +2,10 @@
 
 int main(void)
 {
+
 	int x = 0;
+
+int z = 0;
+	
+
 }
